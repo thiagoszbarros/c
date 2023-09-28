@@ -10,5 +10,5 @@ int main(){
     
     output = n + n2;
 
-    printf("O resultado é %d", output);
+    printf("O resultado é %d\n", output);
 }
